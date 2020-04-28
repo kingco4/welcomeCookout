@@ -10,10 +10,13 @@ h1{
     font-family: 'Nanum Gothic', sans-serif;
     text-align: center;
     color: fuchsia;
+
+    
 }
 h3{
     font-family: 'Nanum Gothic', sans-serif;
-    text-align:: center;
+    text-align: center;
     color: darkslateblue;
     font-style: italic;
+    font-size: 18px;
 }
