@@ -2,25 +2,33 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
-
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    line-height: 1.4;
+    color: darkorchid;
+}
 h1 {
     font-family: 'Nanum Gothic', sans-serif;
     text-align: center;
     color: fuchsia;
     font-size: 50px;
-
-    
-}
-h2 {
+        
+    }
+h2{
     font-family: 'Nanum Gothic', sans-serif;
-    padding-left: 50px;
+    font-size: 45px;
     color: fuchsia;
-    font-size: 50px;
-    margin-bottom: 20px;
+    padding-left: 50px;
+    margin-bottom: 30px;
 }
+
 h3{
     font-family: 'Nanum Gothic', sans-serif;
     text-align: center;
